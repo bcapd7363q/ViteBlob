@@ -1,0 +1,79 @@
+{
+[HTTP:3/10%]: "302 Found";  ## web3.0 refreances
+server: "GitHub.com"
+date: "Sun, 13 Nov 2022 13:56:35 GMT"
+content-type: "text/html; charset=utf-8"
+vary: "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame"
+location: "https://github.com/BIKASH-DASH/me/raw/gh-pages/images/0001.jpg"
+cache-control: "no-cache"
+set-cookie: "has_recent_activity=1; path=/; expires=Sun, 13 Nov 2022 14:56:35 GMT; secure; HttpOnly; SameSite=Lax"
+set-cookie: {
+_gh_sess:"3uLb1twbMAiqYFv91htmAmGZfyMsrP5uq38DCVC85wCDfzXVloP23ctlQt79eCbbaRDKoWgiWyqudCkbAMobZ%2FHFz3XI4bYCPpkWZtWboZIJlutxVtBfMDbMiG8zBV%2FvzWp0hl%2FoL7OT38pDiyb0vHRSll6yzEatt29JfovGjyl1%2Bvwbq1T7T7tkrRDCoAieVKd85KCKy3yRa3er18W5l%2BOb0c%2BzPljcXOrfGtyQdtKbHWCH8zvrRDckcZ2lg7YuiVqsnsij0LD3c4BMAyQYxNrZRedvcYds9i9cD5bwzFeNaw0twCGVgzmZ72s6VYCqAZhQtgnYX9A%2FLKuYHz%2B23ABwk3k8uw2EQf0DZa%2F5iblFdPPZtoeEjW3uzAJMOSfYltmcwlD%2B06aNZ09F32YuhUYK%2Fp%2FEElcyx4Z23cGCcJtFG7ZjihS17MZhCUkGDDNCYN3RpVm0R%2BlRWUPDOLpyTROiiCeX60M%2FVZ4zWjyJQ1hwOuef%2FMRhiinTohHhRE%2BI--N%2FFvHnsUJew0jJ%2Bq--sEr2hsAIvat9KihIK7QbHg%3D%3D";
+path=["/","secure", "HttpOnly"];
+SameSite="Lax";
+strict-transport-security: {max-age:31536000, includeSubdomains:true preload:true};
+x-frame-options: "deny"
+x-content-type-options: "nosniff"
+x-xss-protection: "0"
+referrer-policy: "no-referrer-when-downgrade"
+content-security-policy:{ 
+default-src :"none"; 
+base-uri :"self";
+block-all-mixed-content:true;
+child-src:["github.com/assets-cdn/worker/", "gist.github.com/assets-cdn/worker/"]
+connect-src :[
+ "self",
+ "uploads.github.com",
+ "objects-origin.githubusercontent.com",
+ "www.githubstatus.com collector.github.com",
+ "raw.githubusercontent.com",
+ "api.github.com",
+ "github-cloud.s3.amazonaws.com"
+ "github-production-repository-file-5c1aeb.s3.amazonaws.com",
+ "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+ "github-production-user-asset-6210df.s3.amazonaws.com",
+ "cdn.optimizely.com",
+ "logx.optimizely.com/v1/events",
+ "*.actions.githubusercontent.com",
+ "wss://*.actions.githubusercontent.com",
+ "online.visualstudio.com/api/v1/locations"
+ "github-production-repository-image-32fea6.s3.amazonaws.com"
+ "github-production-release-asset-2e65be.s3.amazonaws.com "
+ "insights.github.com"
+ "wss://alive.github.com"];
+font-src: "github.githubassets.com";
+form-action:[ 
+"self",
+"github.com",
+"gist.github.com",
+"objects-origin.githubusercontent.com"];
+frame-ancestors:"none";
+frame-src: ["viewscreen.githubusercontent.com", "notebooks.githubusercontent.com"];
+img-src: "self";
+data: ["github.githubassets.com",
+ "media.githubusercontent.com",
+"camo.githubusercontent.com",
+"identicons.github.com",
+"avatars.githubusercontent.com",
+"github-cloud.s3.amazonaws.com,
+objects.githubusercontent.com",
+"objects-origin.githubusercontent.com",
+"secured-user-images.githubusercontent.com/",
+"opengraph.githubassets.com",
+"github-production-user-asset-6210df.s3.amazonaws.com",
+"customer-stories-feed.github.com",
+"spotlights-feed.github.com",
+"*.githubusercontent.com"
+];
+
+manifest-src :"self";
+media-src: ["github.com",
+"user-images.githubusercontent.com/",
+"secured-user-images.githubusercontent.com/"];
+script-src: "github.githubassets.com";
+style-src:["unsafe-inline","github.githubassets.com"]
+worker-src:[ "github.com/assets-cdn/worker/" "gist.github.com/assets-cdn/worker/"]
+vary: "Accept-Encoding, Accept, X-Requested-With"
+x-github-request-id: "D5E6:38D8:14BB38:351570:6370F791"
+X-Firefox-Spdy: "h2.0"
+}

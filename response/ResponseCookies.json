@@ -1,0 +1,36 @@
+{
+    "Response Cookies": {
+        "_gh_sess": {
+            "httpOnly": true,
+            "path": "/",
+            "samesite": "Lax",
+            "secure": true,
+            "value": "3uLb1twbMAiqYFv91htmAmGZfyMsrP5uq38DCVC85wCDfzXVloP23ctlQt79eCbbaRDKoWgiWyqudCkbAMobZ/HFz3XI4bYCPpkWZtWboZIJlutxVtBfMDbMiG8zBV/vzWp0hl/oL7OT38pDiyb0vHRSll6yzEatt29JfovGjyl1+vwbq1T7T7tkrRDCoAieVKd85KCKy3yRa3er18W5l+Ob0c+zPljcXOrfGtyQdtKbHWCH8zvrRDckcZ2lg7YuiVqsnsij0LD3c4BMAyQYxNrZRedvcYds9i9cD5bwzFeNaw0twCGVgzmZ72s6VYCqAZhQtgnYX9A/LKuYHz+23ABwk3k8uw2EQf0DZa/5iblFdPPZtoeEjW3uzAJMOSfYltmcwlD+06aNZ09F32YuhUYK/p/EElcyx4Z23cGCcJtFG7ZjihS17MZhCUkGDDNCYN3RpVm0R+lRWUPDOLpyTROiiCeX60M/VZ4zWjyJQ1hwOuef/MRhiinTohHhRE+I--N/FvHnsUJew0jJ+q--sEr2hsAIvat9KihIK7QbHg=="
+        },
+        "has_recent_activity": {
+            "expires": "2022-11-13T14:56:35.000Z",
+            "httpOnly": true,
+            "path": "/",
+            "samesite": "Lax",
+            "secure": true,
+            "value": "1"
+        },
+        "Response Cookies": {
+            "_gh_sess": {
+                "httpOnly": true,
+                "path": "/",
+                "samesite": "Lax",
+                "secure": true,
+                "value": "3uLb1twbMAiqYFv91htmAmGZfyMsrP5uq38DCVC85wCDfzXVloP23ctlQt79eCbbaRDKoWgiWyqudCkbAMobZ/HFz3XI4bYCPpkWZtWboZIJlutxVtBfMDbMiG8zBV/vzWp0hl/oL7OT38pDiyb0vHRSll6yzEatt29JfovGjyl1+vwbq1T7T7tkrRDCoAieVKd85KCKy3yRa3er18W5l+Ob0c+zPljcXOrfGtyQdtKbHWCH8zvrRDckcZ2lg7YuiVqsnsij0LD3c4BMAyQYxNrZRedvcYds9i9cD5bwzFeNaw0twCGVgzmZ72s6VYCqAZhQtgnYX9A/LKuYHz+23ABwk3k8uw2EQf0DZa/5iblFdPPZtoeEjW3uzAJMOSfYltmcwlD+06aNZ09F32YuhUYK/p/EElcyx4Z23cGCcJtFG7ZjihS17MZhCUkGDDNCYN3RpVm0R+lRWUPDOLpyTROiiCeX60M/VZ4zWjyJQ1hwOuef/MRhiinTohHhRE+I--N/FvHnsUJew0jJ+q--sEr2hsAIvat9KihIK7QbHg=="
+            },
+            "has_recent_activity": {
+                "expires": "2022-11-13T14:56:35.000Z",
+                "httpOnly": true,
+                "path": "/",
+                "samesite": "Lax",
+                "secure": true,
+                "value": "1"
+            }
+        }
+    }
+}

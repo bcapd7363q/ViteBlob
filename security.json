@@ -1,0 +1,33 @@
+{
+	"Connection:": {
+		"Protocol version:": "TLSv1.3",
+		"Cipher suite:": "TLS_AES_128_GCM_SHA256",
+		"Key Exchange Group:": "x25519",
+		"Signature Scheme:": "ECDSA-P256-SHA256"
+	},
+	"Host github.com:": {
+		"HTTP Strict Transport Security:": "Enabled",
+		"Public Key Pinning:": "Disabled"
+	},
+	"Certificate:": {
+		"Issued To": {
+			"Common Name (CN):": "github.com",
+			"Organization (O):": "GitHub, Inc.",
+			"Organizational Unit (OU):": "<Not Available>"
+		},
+		"Issued By": {
+			"Common Name (CN):": "DigiCert TLS Hybrid ECC SHA384 2020 CA1",
+			"Organization (O):": "DigiCert Inc",
+			"Organizational Unit (OU):": "<Not Available>"
+		},
+		"Period of Validity": {
+			"Begins On:": "Tue, 15 Mar 2022 00:00:00 GMT",
+			"Expires On:": "Wed, 15 Mar 2023 23:59:59 GMT"
+		},
+		"Fingerprints": {
+			"SHA-256 Fingerprint:": "B7:BC:55:10:CC:1C:63:7B:5E:5F:B7:85:81:6A:77:3D:BB:39:4B:68:33:7B:1B:11:7C:A5:AB:43:CC:F7:78:CF",
+			"SHA1 Fingerprint:": "1E:16:CC:3F:84:2F:65:FC:C0:AB:93:2D:63:8A:C6:4A:95:C9:1B:7A"
+		},
+		"Transparency:": "<Not Available>"
+	}
+}
